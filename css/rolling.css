@@ -1,0 +1,26 @@
+*{padding: 0;margin: 0;}
+			.box{
+				width: 512px;
+				height: 400px;
+				position: relative;
+				margin: 100px auto;
+				overflow: hidden;
+			}
+			#img{
+				position: absolute;
+				top: 0;
+				left: 0;
+			}
+			.up{
+				position: absolute;
+				height: 200px;
+				width: 512px;
+				top: 0;
+				left: 0;
+			}
+			.down{			
+				position: absolute;
+				height: 200px;
+				width: 512px;
+				bottom: 0;
+				left: 0;
